@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5HokM7YYBVbaZ5IKVsU9bHJR9nrBPyKKTdp5z39aflY4Od+0/sFDtOUtl43H8Oo8t2pCEn80ybNKlZv2/tBRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\black\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\black\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
